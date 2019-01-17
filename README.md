@@ -53,7 +53,8 @@ email address and also testing it to see the error message when infomation is no
 CREDITS 
 
 This website has been created compltetly from pen and papper and pre done research. we have not borrowed anyones styles to create this website and have used are own ideas.
-the only help for inspiration has come from studying a course through the Code Insitiute. 
+the only help for inspiration has come from studying a course through the Code Insitiute. the only code borrowed was from https://www.w3schools.com/howto/howto_css_sticky_social_bar.asp
+this code was used in the help of creating sticky social media buttons. 
 the photos of the band involved in this website have been checked for copyright and are not under copyright they are also used for educational use only. 
 github link - 
 

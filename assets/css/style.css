@@ -153,6 +153,10 @@ body{
     padding-top: 100px;
 }
 
+.video{
+    outline-color: red;
+}
+
 .directiontext{
     text-align: center;
     font-size: small;
@@ -220,7 +224,7 @@ body{
 
 }
 
-/*--------------------SOCIAL MEDIA-------------------------------*/ 
+/*--------------------SOCIAL MEDIA DESKTOP-------------------------------*/ 
 
 
 .socialmedia{
@@ -266,6 +270,46 @@ body{
     color: white;
 }
 
+/*--------------------SOCIAL MEDIA MOBILE-------------------------------*/ 
+
+.socialmedia{
+    text-align: center;
+}
+
+
+
+.icon-bar2 a {
+    display: block;
+    text-align: center;
+    transition: all 0.3s ease;
+    color: white;
+    font-size: 20px;
+}
+
+.icon-bar2 a:hover {
+    background-color: #000;
+}
+
+.facebook2 {
+    background: #3B5998;
+    color: white;
+    padding-top: 5px;
+}
+
+
+.twitter2 {
+    background: #55ACEE;
+    color: white;
+}
+
+.youtube2 {
+    background: #bb0000;
+    color: white;
+}
+
+
+
+
 
 /*--------------------FOOTER-------------------------------*/ 
 
@@ -273,10 +317,10 @@ body{
     .bar2 > ul{
     margin: 0;
     padding: 0;
-    list-style: none;
-    text-align: center;
+    text-align: right;
     font-size: small; 
-    margin-left: 44px;
+    margin-left: 11px;
+    padding-bottom: 15px;
     }
 }
 
